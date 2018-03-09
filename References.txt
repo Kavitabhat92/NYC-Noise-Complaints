@@ -1,0 +1,18 @@
+Dr. Patrick Shafto
+https://www.linkedin.com/in/patrick-shafto-00347679/
+
+https://data.cityofnewyork.us/Social-Services/Noise-Complaints-in-BK-not-including-zip-11206/ws36-8ucj
+
+http://nbviewer.jupyter.org/github/ipython-books/cookbook-code/blob/master/notebooks/chapter07_stats/04_correlation.ipynb
+
+http://pandas.pydata.org/
+
+http://www.scipy-lectures.org/packages/statistics/index.html#hypothesis-testingcomparing-two-groups
+
+https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb
+
+https://seaborn.pydata.org/tutorial/axis_grids.html#grid-tutorial
+
+https://bokeh.pydata.org/en/latest/
+
+https://developers.google.com/maps/documentation/javascript/get-api-key
